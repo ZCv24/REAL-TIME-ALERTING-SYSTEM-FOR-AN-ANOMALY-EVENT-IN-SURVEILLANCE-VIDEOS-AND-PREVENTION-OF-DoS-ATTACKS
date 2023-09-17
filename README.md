@@ -1,0 +1,2 @@
+# REAL-TIME-ALERTING-SYSTEM-FOR-AN-ANOMALY-EVENT-IN-SURVEILLANCE-VIDEOS-AND-PREVENTION-OF-DoS-ATTACKS
+Using YOLO to detect weapons from the surveillance cameras and forward it to the law enforcement. We also aim at adding to this proposed system, an extra layer of security to provide uninterrupted service and prevent DoS Attacks, by Authenticating access to the camera module and enable firewall to prevent DoS attack.
